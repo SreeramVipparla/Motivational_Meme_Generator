@@ -26,10 +26,6 @@ This project consists the building of a Meme Generator()a multimedia application
 5. cd flask
 6. pip install flask
 
-# Running the Project
-1. python3 meme.py
-2. python 3 app.py
-
 NOTE:Please install "pdftotext"
 Installation steps 
 (To be executed in the activated virtual environment)
@@ -37,3 +33,8 @@ Installation steps
 2. sudo apt-get install ./libpoppler73_0.62.0-2ubuntu2.12_amd64.deb
 3. wget http://archive.ubuntu.com/ubuntu/pool/universe/x/xpdf/xpdf_3.04-7_amd64.deb
 4. sudo apt-get install ./xpdf_3.04-7_amd64.deb
+
+# Running the Project
+1. python3 meme.py
+2. python3 app.py
+
