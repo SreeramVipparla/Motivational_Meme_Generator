@@ -1,4 +1,4 @@
-## Python Meme Generator
+## Motivational Meme Generator
 ## Overview
 <a href="MemeGenerator"  >
 <img src="https://user-images.githubusercontent.com/86887626/134783528-59775962-ba12-4130-bf97-9385e45bdddb.jpg"/>
