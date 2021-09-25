@@ -1,5 +1,9 @@
 ## Python Meme Generator
+## Overview
+<a href="MemeGenerator"  >
+<img src="https://user-images.githubusercontent.com/86887626/134783528-59775962-ba12-4130-bf97-9385e45bdddb.jpg"/>
 
+## Introduction
 The project is about generating  dynamic memes, including an image with an overlaid quote . This project consists the building of a Meme Generator(a multimedia application to dynamically generate memes). The project involves the building of a service that demonstrates an understanding of both web and data problems. The first step is to import quote data from many different data types (PDF, DOCX, CSV, TXT). Then, understanding the Strategy Object design pattern to write clean, modular code to handle these different file types. Lastly, images should be resized and  should overlay the quotes onto the resized graphics and make the service available for others to use as a command line utility and as a deployable web service.
 
 
