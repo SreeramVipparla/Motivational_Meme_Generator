@@ -1,7 +1,7 @@
 # Motivational Meme Generator Project
 ## Overview
 <a href="MemeGenerator"  >
-<img src="https://user-images.githubusercontent.com/86887626/134783528-59775962-ba12-4130-bf97-9385e45bdddb.jpg"/>
+<img src="https://user-images.githubusercontent.com/86887626/134783528-59775962-ba12-4130-bf97-9385e45bdddb.jpg" width="1000" height="250" />
 
 ## Introduction
 In this project I have developed a dynamic memes generator , including an image with an overlaid quote. This project consists the building of a Meme Generator (a multimedia application to dynamically generate memes) and  involves the building of a service that demonstrates an understanding of both web and data problems. I have started the project by importing  quote data from many different data types (PDF, DOCX, CSV, TXT).Then I have programmed the code to resize images and  overlay the quotes onto the resized graphics and make the service available for others to use as a command line utility and as a deployable web service.
